@@ -1,7 +1,7 @@
 ---
 name: Hello
 on: null
- push: nul
+ push:
   branches:[ main ]
 jobs: null
 greet: null
